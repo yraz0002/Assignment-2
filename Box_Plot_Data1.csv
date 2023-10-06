@@ -1,4 +1,4 @@
-Wine ID,country,points,price,province,region_1,region_2,variety,winery
+Wines,Country,Rate,Price,State,region_1,region_2,Wine Type,winery
 61,Australia,91,36,Victoria,Mornington Peninsula,,Pinot Noir,Moorooduc
 631,Australia,90,20,South Australia,Adelaide Hills,,Pinot Noir,Riposte
 660,Australia,88,42,Victoria,Yarra Valley,,Pinot Noir,Giant Steps
